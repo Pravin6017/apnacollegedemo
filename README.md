@@ -1,4 +1,5 @@
 # apnacollegedemo
-this is my first  git repository 
+
+this is my first git repository
 <br>
-Author -Pravin thakur
+Author -Pravin thakur(apna collage)
